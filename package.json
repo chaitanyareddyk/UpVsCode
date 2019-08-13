@@ -1,0 +1,52 @@
+{
+    "name": "upvscode",
+    "displayName": "UpVsCode",
+    "description": "My curated list of extensions",
+    "version": "0.0.1",
+    "publisher": "chaitanyareddyk",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chaitanyareddyk/UpVsCode"
+    },
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "anseki.vscode-color",
+        "Asuka.insertnumbers",
+        "brapifra.phpserver",
+        "dbaeumer.vscode-eslint",
+        "DotJoshJohnson.xml",
+        "dsznajder.es7-react-js-snippets",
+        "esbenp.prettier-vscode",
+        "felixfbecker.php-debug",
+        "felixfbecker.php-intellisense",
+        "felixfbecker.php-pack",
+        "foxundermoon.shell-format",
+        "HookyQR.beautify",
+        "jpoissonnier.vscode-styled-components",
+        "JuanBlanco.solidity",
+        "ms-azuretools.vscode-docker",
+        "ms-mssql.mssql",
+        "ms-python.python",
+        "ms-vscode.cpptools",
+        "ms-vscode.vscode-typescript-tslint-plugin",
+        "oderwat.indent-rainbow",
+        "redhat.java",
+        "ritwickdey.LiveServer",
+        "Tobermory.es6-string-html",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-dependency",
+        "vscjava.vscode-java-pack",
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-maven",
+        "formulahendry.auto-rename-tag",
+        "coenraads.bracket-pair-colorizer",
+        "christian-kohler.path-intellisense",
+        "eamodio.gitlens"
+    ]
+}
